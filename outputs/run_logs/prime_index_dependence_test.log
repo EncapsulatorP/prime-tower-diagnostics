@@ -1,0 +1,25 @@
+Prime-indexed Chudnovsky block test: N=50000, warmup>100, 5108 prime indices, B=300
+Valuation bases: [2, 3, 5, 7, 11]
+Prime residue counts mod 30: {1: 629, 7: 643, 11: 640, 13: 646, 17: 639, 19: 627, 23: 637, 29: 647}
+
+Mean valuations on prime indices versus controls
+base  prime_mean  uniform_mean  uniform_z  matched_mean  matched_z
+   2     24.2384       22.9788      16.65       24.4737      -3.77
+   3     14.7590       14.1852       9.97       14.9365      -4.28
+   5      9.7845        9.5110       7.48        9.8846      -3.28
+   7      7.9965        7.8438       4.56        7.8382       5.48
+  11      6.2874        6.2007       3.05        6.1993       3.99
+
+Cross-base dependence: mean off-diagonal Pearson correlation
+Observed prime subsequence: 0.116390
+Uniform control:          0.092338 +/- 0.005663 (p=0.0033)
+Residue-matched control:  0.094929 +/- 0.004369 (p=0.0033)
+
+Gap-linked dependence: Spearman(value at p_k, next prime gap)
+base  observed   uniform_mu  uniform_p  uniform_q  matched_mu  matched_p  matched_q
+   2    0.0542     -0.0003     0.0033     0.0055      0.0021     0.0033     0.0042
+   3    0.0205     -0.0006     0.0565     0.0565     -0.0233     0.0033     0.0042
+   5    0.0710      0.0002     0.0033     0.0055      0.0183     0.0033     0.0042
+   7    0.0275      0.0007     0.0233     0.0291      0.0020     0.0399     0.0399
+  11    0.0493      0.0012     0.0033     0.0055      0.0014     0.0033     0.0042
+

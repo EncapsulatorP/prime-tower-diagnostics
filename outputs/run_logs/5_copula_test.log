@@ -1,0 +1,30 @@
+p=2, q=3, N=2000, alpha=0.9
+Observed tail dependence: 0.107692
+Null mean: 0.113528
+Null std:  0.021228
+Permutation p-value: 0.6700
+
+p=2, q=5, N=2000, alpha=0.9
+Observed tail dependence: 0.102564
+Null mean: 0.110759
+Null std:  0.021030
+Permutation p-value: 0.6820
+
+p=3, q=5, N=2000, alpha=0.9
+Observed tail dependence: 0.154867
+Null mean: 0.109991
+Null std:  0.018460
+Permutation p-value: 0.0160
+
+p=5, q=7, N=2000, alpha=0.9
+Observed tail dependence: 0.063636
+Null mean: 0.065082
+Null std:  0.016009
+Permutation p-value: 0.5600
+
+p=5, q=11, N=2000, alpha=0.9
+Observed tail dependence: 0.068182
+Null mean: 0.077827
+Null std:  0.016216
+Permutation p-value: 0.7600
+

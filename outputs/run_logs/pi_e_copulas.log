@@ -1,0 +1,90 @@
+
+--- Prime copula panels ---
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=2, q=3
+
+Spearman rho observed: 0.137901
+Spearman rho null:     -0.028146
+
+Upper-tail dependence observed, alpha=0.9: 0.136364
+Upper-tail dependence null:                    0.038961
+Saved outputs/prime_copulas/p2_q3.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=2, q=5
+
+Spearman rho observed: 0.223641
+Spearman rho null:     -0.035742
+
+Upper-tail dependence observed, alpha=0.9: 0.162338
+Upper-tail dependence null:                    0.116883
+Saved outputs/prime_copulas/p2_q5.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=3, q=5
+
+Spearman rho observed: 0.084920
+Spearman rho null:     -0.006451
+
+Upper-tail dependence observed, alpha=0.9: 0.197531
+Upper-tail dependence null:                    0.123457
+Saved outputs/prime_copulas/p3_q5.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=5, q=7
+
+Spearman rho observed: 0.122218
+Spearman rho null:     0.038622
+
+Upper-tail dependence observed, alpha=0.9: 0.078125
+Upper-tail dependence null:                    0.078125
+Saved outputs/prime_copulas/p5_q7.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=7, q=11
+
+Spearman rho observed: 0.144041
+Spearman rho null:     -0.011652
+
+Upper-tail dependence observed, alpha=0.9: 0.062500
+Upper-tail dependence null:                    0.062500
+Saved outputs/prime_copulas/p7_q11.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=2, q=101
+
+Spearman rho observed: 0.034757
+Spearman rho null:     0.009663
+
+Upper-tail dependence observed, alpha=0.9: 0.142857
+Upper-tail dependence null:                    0.162338
+Saved outputs/prime_copulas/p2_q101.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=61, q=1103
+
+Spearman rho observed: 0.325592
+Spearman rho null:     -0.030506
+
+Upper-tail dependence observed, alpha=0.9: 0.166667
+Upper-tail dependence null:                    0.083333
+Saved outputs/prime_copulas/p61_q1103.png
+
+Coefficient family: A_n = (6n)! / ((3n)! (n!)^3)
+N = 1000
+Prime pair: p=7, q=1103
+
+Spearman rho observed: 0.364694
+Spearman rho null:     -0.017259
+
+Upper-tail dependence observed, alpha=0.9: 0.175000
+Upper-tail dependence null:                    0.062500
+Saved outputs/prime_copulas/p7_q1103.png
+

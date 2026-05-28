@@ -1,0 +1,23 @@
+Newton
+  mean lambda: -23.580732
+  std lambda:   1.941160
+  min lambda:  -26.593982
+  max lambda:   0.436770
+
+Collatz-like
+  mean lambda:  3.590616
+  std lambda:   3.892804
+  min lambda:  -0.786485
+  max lambda:   16.102623
+
+Pisot-like
+  mean lambda:  0.481212
+  std lambda:   0.000000
+  min lambda:   0.481212
+  max lambda:   0.481212
+
+Mean cocycle collision: 0.7996125336724942
+Mean spinor mismatch Newton/Collatz: 0.6168496654521637
+Mean spinor mismatch Newton/Pisot:   0.5688242172532343
+Mean spinor mismatch Collatz/Pisot:  0.4863814833564132
+Saved split figures under outputs/spinor_cocycles
