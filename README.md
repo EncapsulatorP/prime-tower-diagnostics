@@ -197,7 +197,7 @@ Take seriously:
 - the multiplicative and additive `6`-channels need not grow at the same rate,
 - a Borwein-like integral can be used as a practical drift monitor.
 
-Do not overclaim:
+we do not overclaim:
 
 - that the cocycle lemma has already been transferred rigorously to the prime tower,
 - that the Borwein-like integral proves the drift rather than diagnosing it,
