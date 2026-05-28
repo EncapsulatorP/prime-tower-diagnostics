@@ -231,4 +231,4 @@ python3 scripts/5_copula_test.py
 python3 scripts/bonferroni_failed_readressing.py
 ```
 
-Generated outputs and verification logs are summarized in [results.md](/mnt/c/Users/inger/Downloads/logistic_collatz_pisot_newton_spinors/results.md:1).
+Generated outputs and verification logs are summarized in [results.md](/mnt/c/Users/inger/Downloads/logistic_collatz_pisot_newton_spinors/results.md:1) with GPT and Claude tools support.
